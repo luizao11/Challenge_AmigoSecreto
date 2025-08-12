@@ -1,4 +1,4 @@
-# 🎉 Sorteo de Amigos Secreto
+# 🎉 Challenge Juego de Amigos Secreto
 
 Un sencillo juego web para sortear amigos de forma aleatoria, ideal para dinámicas de grupo, regalos secretos o actividades recreativas. Una vez sorteados todos los participantes, se habilita un botón para reiniciar el juego.
 
