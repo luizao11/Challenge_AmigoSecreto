@@ -2,7 +2,6 @@
 
 Un sencillo juego web para sortear amigos de forma aleatoria, ideal para dinámicas de grupo, regalos secretos o actividades recreativas. Una vez sorteados todos los participantes, se habilita un botón para reiniciar el juego.
 
-🔗 **[Ver demo aquí](#)** *(puedes agregar el enlace si lo subes a GitHub Pages o Vercel)*
 
 ---
 
@@ -39,5 +38,3 @@ Un sencillo juego web para sortear amigos de forma aleatoria, ideal para dinámi
 - **JavaScript** – Lógica del juego: sorteos, manipulación del DOM, manejo de arrays
 
 ---
-
-## 📁 Estructura del proyecto
